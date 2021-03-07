@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "453108827468",
+    "firebase_url": "https://gamecaro-96781-default-rtdb.firebaseio.com",
+    "project_id": "gamecaro-96781",
+    "storage_bucket": "gamecaro-96781.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453108827468:android:4d9ed6dca9dbc610f47be9",
+        "android_client_info": {
+          "package_name": "com.example.gamecaro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453108827468-ti9p35sb59g1qm1qlskrg6113jiicabi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8JTowssr2-C4ozTj2t8OESGDppuNONw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453108827468-ti9p35sb59g1qm1qlskrg6113jiicabi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453108827468:android:23f5600dc9e89735f47be9",
+        "android_client_info": {
+          "package_name": "com.example.gamecaroonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453108827468-ti9p35sb59g1qm1qlskrg6113jiicabi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF8JTowssr2-C4ozTj2t8OESGDppuNONw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453108827468-ti9p35sb59g1qm1qlskrg6113jiicabi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
